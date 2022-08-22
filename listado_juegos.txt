@@ -1,5 +1,8 @@
 # Archivo: listado_juegos.txt
-# Fecha: 22-08-2022 06:28:36
+# Fecha: 22-08-2022 06:47:48
+# Numero de lineas procesadas: 8258
+# Dominios insertados en la base de datos: 8258
+# Dominios unicos procesados: 8250
 
 0.0.0.0 bet365.com
 0.0.0.0 sunvegascasino.com

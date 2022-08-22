@@ -1,5 +1,8 @@
 # Archivo: listado_pornografia_infantil.txt
-# Fecha: 22-08-2022 06:20:24
+# Fecha: 22-08-2022 06:47:48
+# Numero de lineas procesadas: 17072
+# Dominios insertados en la base de datos: 17022
+# Dominios unicos procesados: 4940
 
 0.0.0.0 www.vaginangel.com
 0.0.0.0 bery.igopotash.site

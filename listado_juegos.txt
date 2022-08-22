@@ -1,5 +1,5 @@
 # Archivo: listado_juegos.txt
-# Fecha: 22-08-2022 06:20:24
+# Fecha: 22-08-2022 06:28:36
 
 0.0.0.0 bet365.com
 0.0.0.0 sunvegascasino.com
@@ -4315,7 +4315,7 @@
 0.0.0.0 playdarkhorse.com
 0.0.0.0 ninjacasino.com
 0.0.0.0 boostcasino.com
-0.0.0.0 "bingoonline.io
+0.0.0.0 bingoonline.io
 0.0.0.0 joker.win
 0.0.0.0 pokermatch.com
 0.0.0.0 voittojahti.com
